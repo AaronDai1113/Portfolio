@@ -56,7 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-          An experienced Software Development / IT Application Management role with about 10 years’ experiences of Manufacture/Automation Industry.  Skilled in SQL Server, ASP.Net, VB.Net.
+          As a dedicated professional software engineer specializing in SQL Server and .Net. With almost 10 years of experience in the industry,  I am confident in my ability to make a significant contribution to my team and a strong track record of delivering high-quality software solutions for a wide range of clients
           </p>
         </motion.div>
 

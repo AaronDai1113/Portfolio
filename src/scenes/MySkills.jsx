@@ -24,7 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            I am skilled in programming languages such as C#, Javascript, T-SQL, Visual Basic. Accumulated considerable experience of SQL Server / ASP.Net and data processing related skillset.
+          As a software engineer with experience in SQL Server, SSIS, SSRS, ASP.Net, VB.Net, and C#, I am skilled in both front-end and back-end development. I am proficient in troubleshooting and debugging code, and am able to deliver high-quality work on tight deadlines. I am also a team player who is committed to staying up-to-date with the latest industry developments and improving my skills.
           </p>
         </motion.div>
 
@@ -121,7 +121,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            I am with problem-solving at work to coming up with new ideas for creative projects
+          I am skilled at coming up with innovative solutions to problems and have a creative approach to problem-solving
           </p>
         </motion.div>
       </div>
