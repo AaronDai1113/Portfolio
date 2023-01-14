@@ -21,8 +21,7 @@ const Testimonials = () => {
         </p>
         <LineGradient width="mx-auto w-2/5" />
         <p className="mt-10">
-          Here's What People are Saying About My Work. Aliquam aliquet integer
-          ut fames odio in at. At magna ornare dictum lectus.
+          Here's What People are Saying About Myself.
         </p>
       </motion.div>
 
@@ -42,7 +41,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea.
+            My name is MaMa, aaron is a good guy.
           </p>
         </motion.div>
 
@@ -60,8 +59,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Aliquam aliquet integer ut fames odio in at. At magna ornare dictum
-            lectus.
+            My name is WangZai, aaron is my papa.
           </p>
         </motion.div>
 
@@ -79,7 +77,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Fames odio in at. At magna ornare dictum lectus.
+            My name is HuaHua, aaron is a man of his word, you can trust him.
           </p>
         </motion.div>
       </div>

@@ -47,16 +47,11 @@ const Landing = ({ setSelectedPage }) => {
         >
           <p className="text-6xl font-playfair z-10 text-center md:text-start">
             Aaron {""}
-            <span
-              className="xs:relative xs:text-deep-blue xs:font-semibold z-20 xs:before:content-brush
-              before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1]"
-            >
-              Dai
-            </span>
+            Dai
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-          As a dedicated professional software engineer specializing in SQL Server and .Net. With almost 10 years of experience in the industry,  I am confident in my ability to make a significant contribution to my team and a strong track record of delivering high-quality software solutions for a wide range of clients
+          As a dedicated professional software engineer specializing in SQL Server(SSIS,SSRS,stored procedures,functions) and .Net With almost 10 years of experience in the industry,  I am confident in my ability to make a significant contribution to my team and a strong track record of delivering high-quality software solutions for a wide range of clients
           </p>
         </motion.div>
 
